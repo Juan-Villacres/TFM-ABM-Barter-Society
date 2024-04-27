@@ -1,4 +1,5 @@
-Project Description
+Project Description:
+
 This project utilizes agent-based models to simulate a society engaged in digital barter, governed by the Lotka-Volterra equations (LV). The models aim to capture the dynamics of goods and services exchange within this digital barter system.
 
 Description of Files
